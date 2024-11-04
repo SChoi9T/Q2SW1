@@ -1,5 +1,5 @@
 # Q2SW1
-Q2 QUIZ1: BOOTSTRAP IMAGES AND TABLES
+Q2 SW1: BOOTSTRAP IMAGES AND TABLES
 
 1. Create an HTML document with Bootstrap 5 containing five (5) of your favorite cartoon, Disney, or mobile game characters.
 2. Upload your site on GitHub.
