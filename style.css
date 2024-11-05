@@ -1,0 +1,58 @@
+	body {
+		background-image: url(https://i.pinimg.com/564x/fd/bb/32/fdbb32af3770d05ea7c8efff4c9d786d.jpg);
+		background-size: cover;
+		background-position: center;
+		animation: fadeIn;
+		animation-duration: 2s;
+	}
+
+	th {
+		text-align: center;
+	}
+
+	td {
+		text-align: justify;
+		vertical-align: middle;
+	}
+
+	p {
+		text-align: center;
+	}
+
+	img{
+		width: 200px;
+	}
+
+	img:hover {
+		animation: tada;
+		animation-duration: 6s;
+		animation-iteration-count: infinite;
+	}
+
+	ul {
+		text-align: justify;
+	}
+
+	.header h1 {
+		font-family: "Libre Baskerville", serif;
+		color: #FFFFFF;
+		background-color: rgb(0.7,0.7,0.7,0.7);
+		text-align: center;
+		padding: 30px;
+		margin-top: 50px;
+		margin-bottom: 50px;
+		border: 10px solid;
+		border-style: double;
+	}
+
+	.footer {
+		font-family: "Libre Baskerville", serif;
+		color: #FFFFFF;
+		background-color: rgb(0.7,0.7,0.7,0.7);
+		text-align: center;
+		padding: 30px;
+		margin-top: 50px;
+		bottom: 0;
+		border: 10px solid;
+		border-style: double;
+	}
